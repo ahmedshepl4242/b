@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.io.IOException;
 
 import java.util.List;
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin("https://paint-app-frontend-self.vercel.app/")
 @RestController
 @RequestMapping("/api")
 public class Controller {
